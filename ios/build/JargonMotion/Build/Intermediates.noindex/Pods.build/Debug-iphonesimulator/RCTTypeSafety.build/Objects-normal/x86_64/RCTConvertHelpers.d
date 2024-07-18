@@ -1,0 +1,29 @@
+dependencies: \
+  /Users/dariyalgames/Desktop/JargonMotion/node_modules/react-native/Libraries/TypeSafety/RCTConvertHelpers.mm \
+  /Users/dariyalgames/Desktop/JargonMotion/ios/Pods/Target\ Support\ Files/RCTTypeSafety/RCTTypeSafety-prefix.pch \
+  /Users/dariyalgames/Desktop/JargonMotion/node_modules/react-native/Libraries/TypeSafety/RCTConvertHelpers.h \
+  /Users/dariyalgames/Desktop/JargonMotion/ios/Pods/Headers/Public/FBLazyVector/FBLazyVector/FBLazyVector.h \
+  /Users/dariyalgames/Desktop/JargonMotion/ios/Pods/Headers/Public/FBLazyVector/FBLazyVector/FBLazyIterator.h \
+  /Users/dariyalgames/Desktop/JargonMotion/ios/Pods/Folly/folly/Optional.h \
+  /Users/dariyalgames/Desktop/JargonMotion/ios/Pods/Folly/folly/Portability.h \
+  /Users/dariyalgames/Desktop/JargonMotion/ios/Pods/Folly/folly/portability/Config.h \
+  /Users/dariyalgames/Desktop/JargonMotion/ios/Pods/Folly/folly/CPortability.h \
+  /Users/dariyalgames/Desktop/JargonMotion/ios/Pods/Folly/folly/Traits.h \
+  /Users/dariyalgames/Desktop/JargonMotion/ios/Pods/Folly/folly/Utility.h \
+  /Users/dariyalgames/Desktop/JargonMotion/ios/Pods/Folly/folly/lang/Exception.h \
+  /Users/dariyalgames/Desktop/JargonMotion/ios/Pods/Folly/folly/CppAttributes.h \
+  /Users/dariyalgames/Desktop/JargonMotion/ios/Pods/Headers/Public/React-Core/React/RCTConvert.h \
+  /Users/dariyalgames/Desktop/JargonMotion/ios/Pods/Headers/Public/React-Core/React/RCTAnimationType.h \
+  /Users/dariyalgames/Desktop/JargonMotion/ios/Pods/Headers/Public/React-Core/React/RCTBorderStyle.h \
+  /Users/dariyalgames/Desktop/JargonMotion/ios/Pods/Headers/Public/React-Core/React/RCTDefines.h \
+  /Users/dariyalgames/Desktop/JargonMotion/ios/Pods/Headers/Public/React-Core/React/RCTInspectorDevServerHelper.h \
+  /Users/dariyalgames/Desktop/JargonMotion/ios/Pods/Headers/Public/React-Core/React/RCTPackagerConnection.h \
+  /Users/dariyalgames/Desktop/JargonMotion/ios/Pods/Headers/Public/React-Core/React/RCTLog.h \
+  /Users/dariyalgames/Desktop/JargonMotion/ios/Pods/Headers/Public/React-Core/React/RCTAssert.h \
+  /Users/dariyalgames/Desktop/JargonMotion/ios/Pods/Headers/Public/React-Core/React/RCTUtils.h \
+  /Users/dariyalgames/Desktop/JargonMotion/ios/Pods/Headers/Public/React-Core/React/RCTPointerEvents.h \
+  /Users/dariyalgames/Desktop/JargonMotion/ios/Pods/Headers/Public/React-Core/React/RCTTextDecorationLineType.h \
+  /Users/dariyalgames/Desktop/JargonMotion/ios/Pods/Headers/Public/Yoga/yoga/Yoga.h \
+  /Users/dariyalgames/Desktop/JargonMotion/ios/Pods/Headers/Public/Yoga/yoga/YGEnums.h \
+  /Users/dariyalgames/Desktop/JargonMotion/ios/Pods/Headers/Public/Yoga/yoga/YGMacros.h \
+  /Users/dariyalgames/Desktop/JargonMotion/ios/Pods/Headers/Public/Yoga/yoga/YGValue.h

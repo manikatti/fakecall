@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>05001EE8-D8A0-48AD-B197-2F2EDEDC1A3B</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>05001EE8-D8A0-48AD-B197-2F2EDEDC1A3B.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>JargonMotion project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>JargonMotion</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building workspace JargonMotion with scheme JargonMotion and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>601900767.898983</real>
+			<key>timeStoppedRecording</key>
+			<real>601900844.84760499</real>
+			<key>title</key>
+			<string>Building workspace JargonMotion with scheme JargonMotion and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>05001EE8-D8A0-48AD-B197-2F2EDEDC1A3B</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

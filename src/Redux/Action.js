@@ -1,0 +1,10 @@
+const INCOMING = 'INCOMING';
+const INCOMINGVIEW = 'INCOMINGVIEW';
+const TIMER = "timer";
+const CLEAR = "clear";
+const COUNTADD = "COUNTADD";
+const ADDMESSAGE = 'addmessage'
+export { INCOMING, INCOMINGVIEW, TIMER, CLEAR, COUNTADD, ADDMESSAGE }
+
+
+

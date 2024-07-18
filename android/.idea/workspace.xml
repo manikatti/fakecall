@@ -1,0 +1,342 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="23b3cefa-c047-4458-8c3b-d13fa53c773b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../App.js" beforeDir="false" afterPath="$PROJECT_DIR$/../App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/index.android.bundle" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/index.android.bundle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/assets_img_chroma.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/assets_img_chroma.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/assets_img_emulator.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/assets_img_emulator.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/assets_img_homebg.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/assets_img_homebg.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/assets_img_logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/assets_img_logo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/assets_img_player.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/assets_img_player.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/assets_img_setting.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/assets_img_setting.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/assets_mobile_incomingattenx.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/assets_mobile_incomingattenx.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/assets_mobile_incomingatteny.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/assets_mobile_incomingatteny.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/assets_mobile_iphonex.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/assets_mobile_iphonex.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/assets_mobile_messagex.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/assets_mobile_messagex.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/assets_mobile_messagey.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/assets_mobile_messagey.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/assets_mobile_messagez.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/assets_mobile_messagez.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/assets_mobile_outgoingx.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/assets_mobile_outgoingx.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/assets_mobile_outgoingy.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/assets_mobile_outgoingy.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/assets_mobile_outgoingz.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/assets_mobile_outgoingz.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/assets_mobile_splash.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/assets_mobile_splash.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/node_modules_reactnative_package.json" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/node_modules_reactnative_package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/node_modules_realm_package.json" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/raw/node_modules_realm_package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assets/bg/bg1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assets/bg/bg2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assets/bg/bg3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assets/bg/bg4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assets/img/accept.png" beforeDir="false" afterPath="$PROJECT_DIR$/../assets/img/accept.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assets/img/accept@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assets/img/accept@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assets/img/cancel.png" beforeDir="false" afterPath="$PROJECT_DIR$/../assets/img/cancel.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assets/img/cancel@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assets/img/cancel@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assets/img/chroma.png" beforeDir="false" afterPath="$PROJECT_DIR$/../assets/img/chroma.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assets/img/chroma@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assets/img/chroma@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assets/img/emulator.png" beforeDir="false" afterPath="$PROJECT_DIR$/../assets/img/emulator.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assets/img/emulator@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assets/img/emulator@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assets/img/homebg.png" beforeDir="false" afterPath="$PROJECT_DIR$/../assets/img/homebg.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assets/img/homebg@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assets/img/homebg@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assets/img/logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/../assets/img/logo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assets/img/logo@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assets/img/logo@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assets/img/player.png" beforeDir="false" afterPath="$PROJECT_DIR$/../assets/img/player.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assets/img/player@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assets/img/player@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assets/img/profile.png" beforeDir="false" afterPath="$PROJECT_DIR$/../assets/img/profile.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assets/img/profile@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assets/img/profile@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assets/img/setting.png" beforeDir="false" afterPath="$PROJECT_DIR$/../assets/img/setting.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assets/img/setting@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assets/img/setting@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assets/listicon/iphonex.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assets/listicon/iphoney.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assets/listicon/iphonez.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assets/mobile/incomingattenx.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assets/mobile/incomingattenx@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assets/mobile/incomingattenx@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assets/mobile/incomingatteny.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assets/mobile/incomingatteny@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assets/mobile/incomingatteny@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assets/mobile/iphonex.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assets/mobile/iphonex@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assets/mobile/iphonex@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assets/mobile/iphoney.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assets/mobile/iphoney@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assets/mobile/iphoney@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assets/mobile/messagex.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assets/mobile/messagex@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assets/mobile/messagex@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assets/mobile/messagey.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assets/mobile/messagey@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assets/mobile/messagey@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assets/mobile/messagez.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assets/mobile/messagez@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assets/mobile/messagez@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assets/mobile/outgoingx.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assets/mobile/outgoingx@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assets/mobile/outgoingx@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assets/mobile/outgoingy.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assets/mobile/outgoingy@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assets/mobile/outgoingy@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assets/mobile/outgoingz.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assets/mobile/outgoingz@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assets/mobile/outgoingz@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assets/mobile/splash.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assets/mobile/splash@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assets/mobile/splash@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/Redux/Action.js" beforeDir="false" afterPath="$PROJECT_DIR$/../src/Redux/Action.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/Redux/Screen1Reducer.js" beforeDir="false" afterPath="$PROJECT_DIR$/../src/Redux/Screen1Reducer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/base/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../src/base/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/base/temp1.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/base/temp2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/chroma/ChromaScreen.js" beforeDir="false" afterPath="$PROJECT_DIR$/../src/chroma/ChromaScreen.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/database/Database.js" beforeDir="false" afterPath="$PROJECT_DIR$/../src/database/Database.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/home/HomeScreen.js" beforeDir="false" afterPath="$PROJECT_DIR$/../src/home/HomeScreen.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/incoming/InAttendcallview.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/incoming/IncomingCallCreate.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/incoming/IncomingcallEdit.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/incoming/IncomingcallView.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/incoming/Styles.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/incoming/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/incomingPreview/IncomingPreview2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/incomingPreview/incomingPreview1.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/incomingPreview/incomingPreview3.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/incomingPreview/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/incomingPreview/styles.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/incomingedit/IncomingEdit1.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/incomingedit/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/json/Icons.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/json/IncomingAtten.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/json/ListIcon.js" beforeDir="false" afterPath="$PROJECT_DIR$/../src/json/ListIcon.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/json/Message.js" beforeDir="false" afterPath="$PROJECT_DIR$/../src/json/Message.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/json/OutGoing.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/json/Phone.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/player/PlayerListView.js" beforeDir="false" afterPath="$PROJECT_DIR$/../src/player/PlayerListView.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/preview/PreviewScreen.js" beforeDir="false" afterPath="$PROJECT_DIR$/../src/preview/PreviewScreen.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/preview/Styles.js" beforeDir="false" afterPath="$PROJECT_DIR$/../src/preview/Styles.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/router/AppStack.js" beforeDir="false" afterPath="$PROJECT_DIR$/../src/router/AppStack.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/router/NavigationService.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/screen/Incomingcall1.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/screen/Incomingcall2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/screen/Incomingcall3.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/screen/index.js" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="Pixel_2_API_28" />
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view />
+      </state>
+    </system>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../node_modules/react-native-svg/android/build.gradle">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="280">
+              <caret line="39" column="16" lean-forward="true" selection-start-line="39" selection-start-column="16" selection-end-line="39" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="77" />
+    <option name="y" value="47" />
+    <option name="width" value="1279" />
+    <option name="height" value="701" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="AndroidView">
+        <subPane>
+          <expand>
+            <path>
+              <item name="JargonMotion" type="1abcf292:AndroidViewProjectNode" />
+              <item name="Gradle Scripts" type="ae0cef3a:AndroidBuildScriptsGroupNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="android.sdk.path" value="$USER_HOME$/Android/Sdk" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App">
+      <module name="app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="23b3cefa-c047-4458-8c3b-d13fa53c773b" name="Default Changelist" comment="" />
+      <created>1581488971489</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581488971489</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="25" width="1366" height="743" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" visible="true" weight="0.30757576" />
+      <window_info id="Structure" side_tool="true" />
+      <window_info id="Build Variants" side_tool="true" />
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="Resources Explorer" />
+      <window_info id="Capture Tool" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info id="Captures" order="0" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Run" />
+      <window_info anchor="bottom" id="Logcat" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="TODO" />
+      <window_info anchor="bottom" id="Debug" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info active="true" anchor="bottom" id="Build" visible="true" weight="0.30781758" />
+      <window_info anchor="bottom" id="Android Profiler" show_stripe_button="false" />
+      <window_info anchor="right" id="Device File Explorer" side_tool="true" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Gradle" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Flutter Inspector" />
+      <window_info anchor="right" id="Flutter Outline" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Flutter Performance" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/../node_modules/react-native-svg/android/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="39" column="16" lean-forward="true" selection-start-line="39" selection-start-column="16" selection-end-line="39" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

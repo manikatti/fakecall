@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>51BEE61C-89A4-4594-BF8C-83AF140CDD39</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>51BEE61C-89A4-4594-BF8C-83AF140CDD39.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>JargonMotion project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>JargonMotion</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building project JargonMotion with scheme JargonMotion and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>601889178.92254102</real>
+			<key>timeStoppedRecording</key>
+			<real>601889182.54358804</real>
+			<key>title</key>
+			<string>Building project JargonMotion with scheme JargonMotion and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>51BEE61C-89A4-4594-BF8C-83AF140CDD39</string>
+		</dict>
+		<key>9182DEFE-9666-4CA9-B1EE-EA618B54CC2F</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>9182DEFE-9666-4CA9-B1EE-EA618B54CC2F.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>JargonMotion project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>JargonMotion</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building project JargonMotion with scheme JargonMotion and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>601889234.49512696</real>
+			<key>timeStoppedRecording</key>
+			<real>601889234.95373595</real>
+			<key>title</key>
+			<string>Building project JargonMotion with scheme JargonMotion and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>9182DEFE-9666-4CA9-B1EE-EA618B54CC2F</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
